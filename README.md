@@ -1,2 +1,2 @@
 # rowmowsim_data
-publication supporting material
+This repository holds data resources for digital twin ROWMow Sim paper.
